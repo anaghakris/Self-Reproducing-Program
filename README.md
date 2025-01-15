@@ -6,4 +6,4 @@
 - Bhavneet Bhargava
 
 ## Shortcomings
-- We as a group, we didn't have any shortcoming for this self reproducing program.
+- As a group, we could not find any shortcoming in this self-reproducing program.
